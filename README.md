@@ -8,3 +8,4 @@ Udacity Memory managment Chatbot
 # ----------------------------
 
 
+![Image description](link-to-image)

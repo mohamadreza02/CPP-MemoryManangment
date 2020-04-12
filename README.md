@@ -35,8 +35,11 @@ Your goal is to use the course knowledge to optimize the ChatBot program from a 
 ## Basic Build Instructions
 <br>
 1. Clone this repo.
+
 2. Make a build directory in the top level directory: `mkdir build && cd build`
+
 3. Compile: `cmake .. && make`
+
 4. Run it: `./membot`.
 
 ## Project Task Details
